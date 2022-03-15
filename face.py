@@ -1,4 +1,4 @@
-#동영상속 사람얼굴 인식
+# 동영상속 사람얼굴 인식
 
 import cv2
 import mediapipe as mp
